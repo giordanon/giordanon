@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on identifying genetic architechture of traits that contribute GxE of wheat grain yield.
-- 🌱 I’m currently learning Stan programming!
+I am a PhD student at Kansas State University. My current area of research aims to determine agronomic, genetic, human, and social aspects of sustainably reducing wheat yield gaps. 
+
+I’m enthusiastic about using Bayesian statistics as a tool towards probabilistic inference for agriculture challenges!
+
+
 - 📫 How to reach me: via email to ngiordano@ksu.edu
 - ⚡ Fun fact: I enjoy kiteboarding and skiing
 
