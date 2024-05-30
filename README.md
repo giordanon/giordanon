@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a PhD student at Kansas State University. My current area of research aims to determine agronomic, genetic, human, and social aspects of sustainably reducing wheat yield gaps. 
+I am a PhD student at Kansas State University. My current area of research aims to determine agronomic, genetic, human, and social aspects of sustainably reducing wheat yield gaps. Visit my website to learn more about my resarch projects: https://giordanon.github.io/
 
 I’m enthusiastic about using Bayesian statistics as a tool towards probabilistic inference for agriculture challenges!
 
