@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-I am a PhD student at Kansas State University. My current area of research aims to determine agronomic, genetic, human, and social aspects of sustainably reducing wheat yield gaps. Visit my website to learn more about my resarch projects: https://giordanon.github.io/
-
-I’m enthusiastic about using Bayesian statistics as a tool towards probabilistic inference for agriculture challenges!
-
+I bridge state-of-the-art data analytics techniques and crop eco-physiology principles to boost on-farm productivity and narrow yield gaps. Visit my website to learn more about my projects: https://giordanon.github.io/
 
 - 📫 How to reach me: via email to ngiordano@ksu.edu
 - ⚡ Fun fact: I enjoy kiteboarding and skiing
